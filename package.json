@@ -1,0 +1,21 @@
+{
+  "name": "jquery-select-areas",
+  "version": "0.1.0",
+  "description": "jQuery-select-areas is a jQuery plugin that let you select multiple areas of an image, move them and resize them.",
+  "main": "jquery.selectareas.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/360Learning/jquery-select-areas.git"
+  },
+  "keywords": [
+    "jquery",
+    "select",
+    "areas"
+  ],
+  "author": "360learning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/360Learning/jquery-select-areas/issues"
+  },
+  "homepage": "https://github.com/360Learning/jquery-select-areas#readme"
+}
