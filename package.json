@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/360Learning/jquery-select-areas/issues"
   },
-  "homepage": "https://github.com/360Learning/jquery-select-areas#readme"
+  "homepage": "https://github.com/360Learning/jquery-select-areas#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
