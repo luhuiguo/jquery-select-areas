@@ -1,6 +1,6 @@
 {
   "name": "jquery-select-areas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "jQuery-select-areas is a jQuery plugin that let you select multiple areas of an image, move them and resize them.",
   "main": "jquery.selectareas.js",
   "repository": {
