@@ -65,12 +65,13 @@ Here is a list of available options for selectAreas, with their *default value*:
  - **maxAreas** (*0*) : When not 0, set the maximum number of area that can be drawn.
  - **outlineOpacity** (*0.5*) : opacity of the moving dotted outline around a selection.
  - **overlayOpacity** (*0.5*) : opacity of the overlay layer over the image
+ - **blurred** (*true*) : When set to false, the image is not blurred, when at least on area exists.
  - **areas** (*[]*) : list of areas to add to the image from the beginning  (id will be ignored)
  - **onChanging** (*null*) : triggered when the event "changing" is fired
  - **onChanged** (*null*) : triggered when the event "changed" is fired
  - **onLoaded** (*null*) : triggered when the event "loaded" is fired
  - **width** (*0*) : When not 0, scale the image to this width (px). The coordinates of the areas on the full image can be retrieved with method relativeAreas()
-
+ 
 ## Events
 Three events are fired by the plugin:
  - **loaded** : fired when plugin is loaded
